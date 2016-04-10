@@ -7,6 +7,18 @@
 # Import pandas to get access to dataframe
 import pandas as pd
 
+print "---------------------------------------------"
+print " _   _           _           "
+print "| | | |         | |          "
+print "| |_| |_   _  __| |_ __ __ _ "
+print "|  _  | | | |/ _` | '__/ _` |"
+print "| | | | |_| | (_| | | | (_| |"
+print "\_| |_/\__, |\__,_|_|  \__,_|"
+print "        __/ |                "
+print "       |___/                 "
+print
+print "---------------------------------------------"
+
 # Read the csv file
 data_file = pd.read_csv('hydra.csv')
 
